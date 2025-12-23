@@ -1,0 +1,35 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": [ "AthenaCharacter:CID_715_Athena_Commando_F_TwinDark" ],
+        "price": 1200
+    },
+    "daily2": {
+        "itemGrants": [ "AthenaCharacter:ID_048_Athena_Commando_F_HolidayGingerbread" ],
+        "price": 1500
+    },
+    "daily3": {
+        "itemGrants": [ "AthenaCharacter:CID_362_Athena_Commando_F_BandageNinja" ],
+        "price": 1500
+    },
+    "daily4": {
+        "itemGrants": [ "AthenaCharacter:CID_656_Athena_Commando_M_TeriyakiFishFreezerBurn" ],
+        "price": 1200
+    },
+    "daily5": {
+        "itemGrants": [ "AthenaDance:EID_TourBus" ],
+        "price": 250
+    },
+    "daily6": {
+        "itemGrants": [ "AthenaPickaxe:Pickaxe_ID_393_NeonCatSpyFemale" ],
+        "price": 800
+    },
+    "featured1": {
+        "itemGrants": [ "AthenaPickaxe:Pickaxe_ID_074_SharpDresser" ],
+        "price": 800
+    },
+    "featured2": {
+        "itemGrants": [ "AthenaPickaxe:Pickaxe_ID_067_Taxi" ],
+        "price": 500
+    }
+}
